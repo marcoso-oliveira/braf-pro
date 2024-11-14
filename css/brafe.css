@@ -57,9 +57,9 @@ body{
 /* Banner */
 .intro{
     background-image: url(../img/bg-intro.jpg);
-    background-size: cover;
     padding: 150px 0;
     color: #fff;
+    background-size: cover;
     text-align: center;
 }
 .intro h2{
@@ -280,4 +280,7 @@ h2.produtos-mineiro::before{
 .footer p{
     font-size: 1.125em;
     line-height: 1,4em;
+    flex: 1;
+    /*flex e no p e não no img*/
+    dlkjaçdslkfjaslkjflds
 }
