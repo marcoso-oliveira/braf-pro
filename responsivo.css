@@ -1,0 +1,28 @@
+@media screen and (max-width: 739px){
+    .container{
+        flex-direction: column;
+        max-width: 300px;
+    }
+    .menu-nav{
+        margin: 0px;
+    }
+    .menu-logo{
+        margin: 0px;
+    }
+    .menu-nav ul li a{
+        padding-left: 60px;
+    }
+    .intro{
+        padding: 60px;
+    }
+    .sobre-item, .produtos-item,.locais,.locais-img{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .sobre-item,.produtos-item,.locais-info,.locais-img{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .assine-info
+}
+
